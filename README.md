@@ -1,2 +1,2 @@
-# Srow.github.io
-Srow‘s blog
+# DzhSrow.github.io
+DzhSrow‘s blog
